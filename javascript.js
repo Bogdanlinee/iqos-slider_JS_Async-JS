@@ -1,5 +1,4 @@
-function dom() {
-	// let productsArr = [];
+function dom() {	
 	try {
 		fetch('https://www.iqos.com/de/de/tabakerhitzer-entdecken/tabakerhitzer-kaufen.html')
 			.then(response => {
